@@ -1,0 +1,15 @@
+C:\Users\CompuStore\source\repos\StefaniaMantuano_PatronProxy\StefaniaMantuano_PatronProxy\obj\Debug\net6.0\StefaniaMantuano_PatronProxy.csproj.AssemblyReference.cache
+C:\Users\CompuStore\source\repos\StefaniaMantuano_PatronProxy\StefaniaMantuano_PatronProxy\obj\Debug\net6.0\StefaniaMantuano_PatronProxy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CompuStore\source\repos\StefaniaMantuano_PatronProxy\StefaniaMantuano_PatronProxy\obj\Debug\net6.0\StefaniaMantuano_PatronProxy.AssemblyInfoInputs.cache
+C:\Users\CompuStore\source\repos\StefaniaMantuano_PatronProxy\StefaniaMantuano_PatronProxy\obj\Debug\net6.0\StefaniaMantuano_PatronProxy.AssemblyInfo.cs
+C:\Users\CompuStore\source\repos\StefaniaMantuano_PatronProxy\StefaniaMantuano_PatronProxy\obj\Debug\net6.0\StefaniaMantuano_PatronProxy.csproj.CoreCompileInputs.cache
+C:\Users\CompuStore\source\repos\StefaniaMantuano_PatronProxy\StefaniaMantuano_PatronProxy\bin\Debug\net6.0\StefaniaMantuano_PatronProxy.exe
+C:\Users\CompuStore\source\repos\StefaniaMantuano_PatronProxy\StefaniaMantuano_PatronProxy\bin\Debug\net6.0\StefaniaMantuano_PatronProxy.deps.json
+C:\Users\CompuStore\source\repos\StefaniaMantuano_PatronProxy\StefaniaMantuano_PatronProxy\bin\Debug\net6.0\StefaniaMantuano_PatronProxy.runtimeconfig.json
+C:\Users\CompuStore\source\repos\StefaniaMantuano_PatronProxy\StefaniaMantuano_PatronProxy\bin\Debug\net6.0\StefaniaMantuano_PatronProxy.dll
+C:\Users\CompuStore\source\repos\StefaniaMantuano_PatronProxy\StefaniaMantuano_PatronProxy\bin\Debug\net6.0\ref\StefaniaMantuano_PatronProxy.dll
+C:\Users\CompuStore\source\repos\StefaniaMantuano_PatronProxy\StefaniaMantuano_PatronProxy\bin\Debug\net6.0\StefaniaMantuano_PatronProxy.pdb
+C:\Users\CompuStore\source\repos\StefaniaMantuano_PatronProxy\StefaniaMantuano_PatronProxy\obj\Debug\net6.0\StefaniaMantuano_PatronProxy.dll
+C:\Users\CompuStore\source\repos\StefaniaMantuano_PatronProxy\StefaniaMantuano_PatronProxy\obj\Debug\net6.0\ref\StefaniaMantuano_PatronProxy.dll
+C:\Users\CompuStore\source\repos\StefaniaMantuano_PatronProxy\StefaniaMantuano_PatronProxy\obj\Debug\net6.0\StefaniaMantuano_PatronProxy.pdb
+C:\Users\CompuStore\source\repos\StefaniaMantuano_PatronProxy\StefaniaMantuano_PatronProxy\obj\Debug\net6.0\StefaniaMantuano_PatronProxy.genruntimeconfig.cache
